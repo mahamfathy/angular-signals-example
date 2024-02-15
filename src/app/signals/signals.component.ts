@@ -6,7 +6,7 @@ import { DefaultComponent } from '../default/default.component';
   selector: 'app-signals',
   imports:[DefaultComponent],
   templateUrl: './signals.component.html',
-  styleUrls: ['./signals.component.css']
+  styleUrls: ['./signals.component.css'],
 })
 export class SignalsComponent {
 
